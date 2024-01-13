@@ -7,24 +7,6 @@
 
 This is a portfolio repository that aims to bring together all projects developed. Whether they are developed through Bellum Galaxy or not.
 
-# Tools
-- Solidity
-- Chainlink's
-- ThirdWeb's
-- Java Script
-- Figma
-- React
-- Vite.js
-- Next.Js
-- Clerk
-- TailwindCSS
-- DaisyUI
-- Contentful
-- Prisma
-- PlanetScale
-- Netlify
-- Vercel
-
 # Projects
 ## Solidity
 - [MyTrevo](https://github.com/i3arba/raffle-MyTrevo)
@@ -42,3 +24,21 @@ This is a portfolio repository that aims to bring together all projects develope
 - [NextJs & OpenAI](https://github.com/i3arba/NextJs-OpenAI)
 - [Foundry Fundamentals](https://github.com/i3arba/Collins/tree/main/foundry-f23/foundry-simple-storage-f23)
 - [Foundry Advanced](https://github.com/i3arba/PatrickCollins-Advanced-Foundry)
+
+# Tools
+- Solidity
+- Chainlink's
+- ThirdWeb's
+- Java Script
+- Figma
+- React
+- Vite.js
+- Next.Js
+- Clerk
+- TailwindCSS
+- DaisyUI
+- Contentful
+- Prisma
+- PlanetScale
+- Netlify
+- Vercel
