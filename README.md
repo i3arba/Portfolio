@@ -40,3 +40,5 @@ This is a portfolio repository that aims to bring together all projects develope
 ## Educational
 - [React Project Course - John Smilga](https://github.com/i3arba/React-18-Tutorial-and-Projects-Course-2023---John-Smilga)
 - [NextJs & OpenAI](https://github.com/i3arba/NextJs-OpenAI)
+- [Foundry Fundamentals](https://github.com/i3arba/Collins/tree/main/foundry-f23/foundry-simple-storage-f23)
+- [Foundry Advanced](https://github.com/i3arba/PatrickCollins-Advanced-Foundry)
