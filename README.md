@@ -16,6 +16,9 @@ This is a portfolio repository that aims to bring together all projects develope
 ## Solidity
 - [MyTrevo](https://github.com/i3arba/raffle-MyTrevo)
 
+## Security & Auditing
+- [Audit Reports](https://github.com/i3arba/Security-Audits).
+
 ## Figma - UI/UX
 - [Gooday - App](https://github.com/i3arba/Gooday---App)
 
@@ -27,9 +30,14 @@ This is a portfolio repository that aims to bring together all projects develope
 - [NextJs & OpenAI](https://github.com/i3arba/NextJs-OpenAI)
 - [Foundry Fundamentals](https://github.com/i3arba/Collins/tree/main/foundry-f23/foundry-simple-storage-f23)
 - [Foundry Advanced](https://github.com/i3arba/PatrickCollins-Advanced-Foundry)
+- [Security & Auditing](https://github.com/i3arba/Security-Auditing)
+- [Chainlink Bootcamp](https://github.com/i3arba/Chainlink-Bootcamp)
 
 # Tools
 - Solidity
+   - Solidity Code Metrics
+- Slither
+- Aderyn
 - Foundry
 - Chainlink's
    - VRF
