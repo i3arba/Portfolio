@@ -10,7 +10,7 @@ This is a portfolio repository that aims to bring together all projects develope
 # Projects
 ## FullStack
 - [Horizon-SmartContracts](https://github.com/BellumGalaxy/constellation-bg)
-- [Horizon-FrontEnd](https://github.com/BellumGalaxy/bg-website)
+- [Horizon-FrontEnd](https://github.com/BellumGalaxy/horizon-dapp)
 - [Bellum Galaxy Interplanetary Weapon](https://github.com/BellumGalaxy/BG-IW) - Under construction
 
 ## Solidity
