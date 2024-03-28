@@ -3,27 +3,24 @@
 </p>
 
 # Patrick Carneiro, AKA, Barba
-🎯 Just give me the mission! 
+🎯 Give me the mission! 
 
-This is a portfolio repository that aims to bring together all projects developed. Whether they are developed through Bellum Galaxy or not.
+This is a portfolio repository that aims to centralize all projects. Whether they are developed through Bellum Galaxy or not.
 
 # Projects
 ## FullStack
 - [Horizon-SmartContracts](https://github.com/BellumGalaxy/constellation-bg)
-- [Horizon-FrontEnd](https://github.com/BellumGalaxy/horizon-dapp)
 - [Bellum Galaxy Interplanetary Weapon](https://github.com/BellumGalaxy/BG-IW) - Under construction
 
 ## Solidity
-- [MyTrevo](https://github.com/i3arba/raffle-MyTrevo)
+- [Recycle Minds](https://github.com/i3arba/Recycle-Project)
 
 ## Security & Auditing
 - [Audit Reports](https://github.com/i3arba/Security-Audits).
 
-## Figma - UI/UX
-- [Gooday - App](https://github.com/i3arba/Gooday---App)
-
-## Web
+## Websites
 - [Bellum Galaxy Website](https://github.com/BellumGalaxy/bg-website)
+- [Horizon-FrontEnd](https://github.com/BellumGalaxy/horizon-dapp)
 
 ## Educational
 - [React Project Course - John Smilga](https://github.com/i3arba/React-18-Tutorial-and-Projects-Course-2023---John-Smilga)
@@ -33,32 +30,10 @@ This is a portfolio repository that aims to bring together all projects develope
 - [Security & Auditing](https://github.com/i3arba/Security-Auditing)
 - [Chainlink Bootcamp](https://github.com/i3arba/Chainlink-Bootcamp)
 
-# Tools
-- Solidity
-   - Solidity Code Metrics
-- Slither
-- Aderyn
-- Foundry
+# Web3 Solutions
 - Chainlink's
    - VRF
    - CCIP
    - Functions
    - Automation
    - DataFeeds
-- ThirdWeb's
-   - SDK
-   - Embed Wallets
-   - Standard NFT Contracts
-- Java Script
-- Figma
-- React
-- Vite.js
-- Next.Js
-- Clerk
-- TailwindCSS
-- DaisyUI
-- Contentful
-- Prisma
-- PlanetScale
-- Netlify
-- Vercel
