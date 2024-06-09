@@ -9,7 +9,8 @@ This is a portfolio repository that aims to centralize all projects. Whether the
 
 # Projects
 ## Hackathon
-- [Horizon-SmartContracts](https://github.com/BellumGalaxy/constellation-bg)
+- [Horizon](https://devpost.com/software/horizon-8qkbv0)
+- [Trident](https://devpost.com/software/trident-d2lakz?ref_content=user-portfolio&ref_feature=in_progress).
 
 ## Community / Educational
 - [Bellum Galaxy Interplanetary Weapon](https://github.com/BellumGalaxy/BG-IW) - Under construction
@@ -25,7 +26,7 @@ This is a portfolio repository that aims to centralize all projects. Whether the
 - [Horizon-FrontEnd](https://github.com/BellumGalaxy/horizon-dapp)
 
 ## Educational
-- [Assembly & Formal Verification](https://github.com/Cyfrin/assembly-evm-opcodes-and-formal-verification-course)
+- [Huff & Formal Verification](https://github.com/Cyfrin/assembly-evm-opcodes-and-formal-verification-course)
 - [Security & Auditing](https://github.com/i3arba/Security-Auditing)
 - [Learning Rust](https://github.com/i3arba/Learning-Rust)
 - [Chainlink Bootcamp](https://github.com/i3arba/Chainlink-Bootcamp)
