@@ -5,25 +5,25 @@
 # Patrick Carneiro, AKA, Barba
 🎯 Give me the mission! 
 
-This is a portfolio repository that aims to centralize all projects. Whether they are developed through Bellum Galaxy or not.
+This portfolio repository aims to centralize all projects, whether developed through Bellum Galaxy or not.
 
 # Projects
+## Contract
+- [Lanca.io](https://github.com/concero/contracts-ccip)
+
 ## Hackathon
 - [Horizon](https://devpost.com/software/horizon-8qkbv0)
 - [Trident](https://devpost.com/software/trident-d2lakz?ref_content=user-portfolio&ref_feature=in_progress).
 
 ## Community / Educational
-- [Bellum Galaxy Interplanetary Weapon](https://github.com/BellumGalaxy/BG-IW) - Under construction
+- [Nebula Quest](https://github.com/BellumGalaxy/BG-IW) - Under construction
 
-## Solidity
-- [Recycle Minds](https://github.com/i3arba/Recycle-Project)
-
-## Security & Auditing
-- [Audit Reports](https://github.com/i3arba/Security-Audits).
-
-## Websites
-- [Bellum Galaxy Website](https://github.com/BellumGalaxy/bg-website)
-- [Horizon-FrontEnd](https://github.com/BellumGalaxy/horizon-dapp)
+## Competitive Audits
+- [xKeeper](https://github.com/sherlock-audit/2024-04-xkeeper).
+- [Titles](https://github.com/sherlock-audit/2024-04-titles).
+- [Amphor](https://github.com/sherlock-audit/2024-03-amphor).
+- [VVV Vesting Staking](https://github.com/sherlock-audit/2024-03-vvv-vesting-staking).
+- [Axis Finance](https://github.com/sherlock-audit/2024-03-axis-finance).
 
 ## Educational
 - [Huff & Formal Verification](https://github.com/Cyfrin/assembly-evm-opcodes-and-formal-verification-course)
